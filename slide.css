@@ -1,0 +1,46 @@
+.slide {
+    width:850px;
+    height:340px;
+    position: relative;
+    overflow: hidden;
+    border-radius: 10px;
+}
+
+.images {
+    width: 300%;
+    height: 100%;
+    display: flex;
+    border-radius: 10px;
+}
+
+.image {
+    width:850px;
+    height:3400px;
+    border-radius: 10px;
+    transition: 0.8s linear;
+}
+
+.images input {
+    position: absolute;
+    bottom: 20px;
+}
+
+#img1{
+    left:390px;
+}
+#img2{
+    left:410px;
+}
+#img3{
+    left:430px;
+}
+
+#img1:checked ~ .first{
+    margin-left:0;
+}
+#img2:checked ~ .first{
+    margin-left:-850px;
+}
+#img3:checked ~ .first{
+    margin-left:-1700px;
+}
