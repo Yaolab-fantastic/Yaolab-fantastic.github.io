@@ -13,7 +13,7 @@
 
 在调试工具修改代码不会被保存，一般可以先测试修改内容再返回源代码文件中修改。
 
-![img](\readmeimages\1.png)
+![img](readmeimages\1.png)
 
 
 
@@ -45,7 +45,7 @@
 
 ### 三、修饰文本
 
-![image-20211121113327728](C:\Users\NieZQ\AppData\Roaming\Typora\typora-user-images\image-20211121113327728.png)
+![img](C:\Users\NieZQ\AppData\Roaming\Typora\typora-user-images\image-20211121113327728.png)
 
 ![img](\readmeimages\7.png)
 
