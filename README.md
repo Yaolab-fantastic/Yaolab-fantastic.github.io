@@ -13,7 +13,7 @@
 
 在调试工具修改代码不会被保存，一般可以先测试修改内容再返回源代码文件中修改。
 
-![1](\readmeimages\1.png)
+![img](\readmeimages\1.png)
 
 
 
@@ -21,7 +21,7 @@
 
 **VScode**，并且安装了拓展插件“**open in browser**” ，在html文件中右击--选择子选项open in default browser可以快速打开。但是注意每次修改源文件后需要进行保存操作才能在浏览器中显示修改内容。以及使用Ctrl+F来在文件中检索定位需要修改的内容。
 
-![2](\readmeimages\2.png)
+![img](\readmeimages\2.png)
 
 
 
@@ -29,7 +29,7 @@
 
 目前home、reserch、news、awards、presentation、publications等大部分页面是小标题加段落或者小标题加列表的布局形式，例如
 
-![3](C:\Users\NieZQ\Desktop\readmeimages\3.png)
+![img](C:\Users\NieZQ\Desktop\readmeimages\3.png)
 
 ![img](\readmeimages\4.png)
 
