@@ -3,7 +3,7 @@
 - 2021/11/20  Nie:更换了logo和icon,按照要求将合并页面awards拆开
 - 2021/11/21  Nie:上传了修改指南、download页面修改(原software页面)、contact页面修改、成员图像上传
 - 2021/11/22  Nie:域名解析成功，可以通过www.cnailab.top或者cnailab.top访问, 到期时间：2022/11/22
-
+- 2021/11/23  Nie:map迁移到contact页面
 ## 修改指南
 
 ### 一、工具
